@@ -4,10 +4,10 @@ O projeto foi desenvolvido com o intuito de utilizar o serviço de Cache do Spri
 
 A sequencia Alticci funciona com a seguinte formula:
 
-n=0 => a(0) = 0
-n=1 => a(1) = 1
-n=2 => a(2) = 1
-n>2 => a(n) = a(n-3) + a(n-2)
+n=0 => a(0) = 0 <br>
+n=1 => a(1) = 1 <br>
+n=2 => a(2) = 1 <br>
+n>2 => a(n) = a(n-3) + a(n-2) <br>
 
 ## Para rodar o projeto na sua máquina siga o passo a passo.
 
