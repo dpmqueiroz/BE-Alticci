@@ -19,7 +19,7 @@ https://github.com/dpmqueiroz/BE-Alticci
 
 3º Passo -> Abrir o Terminal entrar na pasta raiz do projeto e executar o seguinte comando:
 
-mvn spring-boot:run 
+(`mvn spring-boot:run `)
 
 Com a aplicação em execução temos dois links utéis:
 
